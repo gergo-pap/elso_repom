@@ -4,3 +4,5 @@
 - bar
 
 ## Törlés
+* kakao
+* latod, hogy ugyanugy nez ki? :D
